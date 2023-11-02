@@ -3,7 +3,8 @@
 /**
 * binary_tree_balance - Calculates the balance factor of a binary tree.
 * @tree: Pointer to the root node of the binary tree.
-* Return: Balance factor of the binary tree (difference between the heights of left and right subtrees).
+* Return: Balance factor of the binary tree (difference between the
+* heights of left and right subtrees).
 */
 int binary_tree_balance(const binary_tree_t *tree)
 {
